@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @smsadatkabir
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Different types of Coding Language
--
-- 📫 How to reach me... my gmail smsadatkabir@gmail.com
+<h1 align="center">Hi 👋, I'm S.M. Sadat Kabir</h1>
+<h3 align="center">I am a student.</h3>
 
-<!---
-smsadatkabir/smsadatkabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smsadatkabir&label=Profile%20views&color=0e75b6&style=flat" alt="smsadatkabir" /> </p>
+
+- 📫 How to reach me **smsadatkabir@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com//ssadatkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/ssadatkabir" height="30" width="40" /></a>
+<a href="https://instagram.com/sadat_kabir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadat_kabir_" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/smsadatkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="smsadatkabir" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smsadatkabir&show_icons=true&locale=en&layout=compact" alt="smsadatkabir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smsadatkabir&show_icons=true&locale=en" alt="smsadatkabir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsadatkabir&" alt="smsadatkabir" /></p>
