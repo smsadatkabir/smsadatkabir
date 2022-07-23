@@ -1,9 +1,11 @@
 <h2 align="center">Hi 👋, I'm S.M. Sadat Kabir</h2>
-<h3 align="center">I am a student.</h3>
-<h3 align="center"> I am currently studying in CSE at BUBT.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smsadatkabir&label=Profile%20views&color=0e75b6&style=flat" alt="smsadatkabir" /> </p>
+
+-🔭 I’m currently studing B.Sc.(Engr.) in <h4> CSE at Bangladesh University Of Business And Tecnology-BUBT</h4>
+
+-🌱 I’m currently learning **C programming, C++**
 
 - 📫 How to reach me **smsadatkabir@gmail.com**
 
