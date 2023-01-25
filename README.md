@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm S.M. Sadat Kabir</h2>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4422089-coding&psig=AOvVaw0eIqWHU7vghxap38qm_Kry&ust=1674753913562000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPi52NCe4_wCFQAAAAAdAAAAABAj)">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smsadatkabir&label=Profile%20views&color=0e75b6&style=flat" alt="smsadatkabir" /> </p>
 
