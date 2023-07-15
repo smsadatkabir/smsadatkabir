@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://etap.com/images/default-source/static/etap-21-release/binary-animation.gif?sfvrsn=411527c_2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smsadatkabir&label=Profile%20views&color=0e75b6&style=flat" alt="smsadatkabir" /> </p>
--🌱 I’m currently learning **Java Script**
+-🌱 I’m currently learning <h4>Java Script</h4> 
 
 - 📫 How to reach me **smsadatkabir@gmail.com**
 
