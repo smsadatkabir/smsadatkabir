@@ -1,11 +1,8 @@
-<h2 align="center">Hi 👋, I'm S.M. Sadat Kabir</h2>
+<h2 align="center">Hi 👋, I'm S M SADAT KABIR </h2>
 <img align="right" alt="Coding" width="400" src="https://etap.com/images/default-source/static/etap-21-release/binary-animation.gif?sfvrsn=411527c_2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smsadatkabir&label=Profile%20views&color=0e75b6&style=flat" alt="smsadatkabir" /> </p>
-
--🔭 I’m currently studing B.Sc.(Engr.) in <h4> CSE at Bangladesh University Of Business And Tecnology-BUBT</h4>
-
--🌱 I’m currently learning **C programming, C++**
+-🌱 I’m currently learning **Java Script**
 
 - 📫 How to reach me **smsadatkabir@gmail.com**
 
